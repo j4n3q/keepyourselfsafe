@@ -18,6 +18,8 @@ local UICorner_2 = Instance.new("UICorner")
 
 local Dot2 = Instance.new("Frame")
 
+_G.Username = "ImNotJaneq"
+
 local UICorner_3 = Instance.new("UICorner")
 
 local InsideDot_2 = Instance.new("Frame")
@@ -404,4 +406,3 @@ end
 
 coroutine.wrap(LSNGUH_fake_script)()
 
-_G.Username = "ImNotJaneq"
